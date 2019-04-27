@@ -10,8 +10,8 @@ const items = [
   { key: 2, id: 2, color: "lightblue", title: "Xllo" },
   { key: 3, id: 3, color: "orange", title: "Blueberry" },
   { key: 4, id: 4, color: "green", title: "Sinasappel" },
-  { key: 21, id: 2, color: "lightblue", title: "Xllo" },
-  { key: 31, id: 3, color: "orange", title: "Blueberry" },
+  { key: 21, id: 2, color: "purple", title: "Xllo" },
+  { key: 31, id: 3, color: "palevioletred", title: "Blueberry" },
   { key: 41, id: 4, color: "green", title: "Sinasappel" }
 ];
 
